@@ -1,5 +1,5 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
-### DATE: 09-02-2026                                                                            
+### DATE: 23-02-2026                                                                            
 ### REGISTER NUMBER : 212224220018
 ### AIM: 
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
